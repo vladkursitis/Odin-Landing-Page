@@ -29,7 +29,6 @@ body {
 }
 
 .footer {
-    flex-grow: 1;
     justify-content: center;
     height: 60px;
 }

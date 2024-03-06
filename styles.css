@@ -36,6 +36,7 @@ body {
 
 
 .header-content {
+    justify-content: center;
     display: flex;
     gap: 50px;
     background: #1f2937;
